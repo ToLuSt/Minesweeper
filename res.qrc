@@ -1,0 +1,10 @@
+<RCC>
+    <qresource prefix="/pics">
+        <file>res/Maus_linksklick.png</file>
+        <file>res/Maus_mittlererklick.png</file>
+        <file>res/Maus_rechtsklick.png</file>
+        <file>res/Minefield.jpg</file>
+        <file>res/Mine.png</file>
+        <file>res/Flag.png</file>
+    </qresource>
+</RCC>
